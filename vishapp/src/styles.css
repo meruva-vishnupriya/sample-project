@@ -1,0 +1,22 @@
+
+
+*{
+    font-family: 'Tangerine', serif;
+}
+.header{
+    display: flex;
+    background-color: rgb(62, 59, 59);
+    height: 65px;
+    justify-content: flex-start;
+    font-size: 20px;
+    align-content: space-evenly;
+}
+.fornav{
+    color: aliceblue;
+    margin: 20px;
+    padding: 2px;
+    border: 2px;
+    border-radius: 20px;
+
+
+}
